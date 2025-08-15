@@ -1,4 +1,4 @@
-Database Configuration: Ensure you have a MySQL server running with a database named ecommerce_db.
+Database Configuration: Ensure you have a MySQL server running with a database named ecommerce_db. that is CREATE DATABASE ecommerce_db;
 
 Configuration File: Update the src/main/resources/application.properties file with your database credentials.
 
@@ -63,3 +63,37 @@ POST	/reviews/products/{productId}/users/{userId}	Submits a new review for a pro
 GET	/reviews	Retrieves all reviews.	-
 
 GET	/reviews/products/{productId}	Retrieves all reviews for a specific product.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+In Database Verify 
+
+Database Tables
+The application uses a MySQL database with the following tables, which are automatically created by Spring.
+
+use ecommerce_db;
+show tables;
+
+user
+Stores user accounts. Key fields are id, username, and email.
+
+ie.select * from user;
+
+product
+Holds product details. Key fields are id, name, price, and stock_quantity.
+
+select * from product;
+
+orders
+Keeps track of customer orders. Key fields are id, order_date, total_amount, and a link to the user who placed the order.
+
+select * from orders;
+
+review
+Stores user reviews for products. Key fields are id, rating, comment, and links to the user and product.
+
+select * from review; 
+
+payment
+Records payment transactions. Key fields are id, amount, payment_method, and a link to the corresponding order.
+
+select * from payment;
