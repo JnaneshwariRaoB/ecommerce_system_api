@@ -17,6 +17,7 @@ public class User {
     private String username;
     private String password;
     private String email;
+    private String role; // e.g., "ROLE_USER", "ROLE_ADMIN"
 
     
     @OneToMany(mappedBy = "user", cascade = CascadeType.ALL, orphanRemoval = true)
@@ -36,4 +37,6 @@ public class User {
     public void setPassword(String password) { this.password = password; }
     public String getEmail() { return email; }
     public void setEmail(String email) { this.email = email; }
+    public String getRole() { return role; }
+    public void setRole(String role) { this.role = role; }
 }
