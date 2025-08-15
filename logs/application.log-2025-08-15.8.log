@@ -1,0 +1,6 @@
+2025-08-15T16:47:02.618+05:30  INFO 20836 --- [application] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-08-15T16:47:02.635+05:30  INFO 20836 --- [application] [main] com.example.application.Application      : Started Application in 7.243 seconds (process running for 7.713)
+2025-08-15T16:47:14.328+05:30  INFO 20836 --- [application] [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-08-15T16:47:14.329+05:30  INFO 20836 --- [application] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-08-15T16:47:14.333+05:30  INFO 20836 --- [application] [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2025-08-15T16:52:00.044+05:30  INFO 11864 --- [application] [main] com.example.application.Application      : Starting Application using Java 21.0.8 with PID 11864 (C:\Users\Asus\Downloads\application\application\target\classes started by Asus in C:\Users\Asus\Downloads\application\application)

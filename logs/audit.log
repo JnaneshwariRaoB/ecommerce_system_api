@@ -1,0 +1,5 @@
+2025-08-15 17:58:50.215 - Admin action: Product created with ID: 2
+2025-08-15 17:59:54.611 - User transaction: Order created with ID 3 for user with ID 1
+2025-08-15 18:01:42.921 - Admin action: Product created with ID: 3
+2025-08-15 18:02:32.740 - Admin action: Product with ID 2 was updated.
+2025-08-15 18:03:06.057 - Admin action: Product with ID 3 was deleted.

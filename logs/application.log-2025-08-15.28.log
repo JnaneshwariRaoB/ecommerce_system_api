@@ -1,0 +1,7 @@
+2025-08-15T17:40:01.497+05:30  INFO 14820 --- [application] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-08-15T17:40:01.531+05:30  INFO 14820 --- [application] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-08-15T17:40:01.531+05:30  INFO 14820 --- [application] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.43]
+2025-08-15T17:40:01.598+05:30  INFO 14820 --- [application] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-08-15T17:40:01.600+05:30  INFO 14820 --- [application] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1415 ms
+2025-08-15T17:40:01.971+05:30  INFO 14820 --- [application] [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-08-15T17:40:02.035+05:30  INFO 14820 --- [application] [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.6.22.Final

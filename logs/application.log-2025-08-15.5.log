@@ -1,0 +1,7 @@
+2025-08-15T16:46:57.334+05:30  INFO 20836 --- [application] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-08-15T16:46:57.457+05:30  INFO 20836 --- [application] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 94 ms. Found 3 JPA repository interfaces.
+2025-08-15T16:46:58.356+05:30  INFO 20836 --- [application] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-08-15T16:46:58.384+05:30  INFO 20836 --- [application] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-08-15T16:46:58.385+05:30  INFO 20836 --- [application] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.43]
+2025-08-15T16:46:58.482+05:30  INFO 20836 --- [application] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-08-15T16:46:58.482+05:30  INFO 20836 --- [application] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2218 ms

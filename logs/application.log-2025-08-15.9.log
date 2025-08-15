@@ -1,0 +1,7 @@
+2025-08-15T16:52:00.054+05:30  INFO 11864 --- [application] [main] com.example.application.Application      : No active profile set, falling back to 1 default profile: "default"
+2025-08-15T16:52:01.152+05:30  INFO 11864 --- [application] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-08-15T16:52:01.264+05:30  INFO 11864 --- [application] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 97 ms. Found 3 JPA repository interfaces.
+2025-08-15T16:52:02.135+05:30  INFO 11864 --- [application] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-08-15T16:52:02.157+05:30  INFO 11864 --- [application] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-08-15T16:52:02.158+05:30  INFO 11864 --- [application] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.43]
+2025-08-15T16:52:02.249+05:30  INFO 11864 --- [application] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext

@@ -1,0 +1,6 @@
+2025-08-15T10:36:19.774+05:30  INFO 12412 --- [application] [main] com.example.application.Application      : Starting Application using Java 21.0.8 with PID 12412 (C:\Users\Asus\Downloads\application\application\target\classes started by Asus in C:\Users\Asus\Downloads\application\application)
+2025-08-15T10:36:19.781+05:30  INFO 12412 --- [application] [main] com.example.application.Application      : No active profile set, falling back to 1 default profile: "default"
+2025-08-15T10:36:20.900+05:30  INFO 12412 --- [application] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-08-15T10:36:21.002+05:30  INFO 12412 --- [application] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 78 ms. Found 3 JPA repository interfaces.
+2025-08-15T10:36:21.862+05:30  INFO 12412 --- [application] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-08-15T10:36:21.882+05:30  INFO 12412 --- [application] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]

@@ -1,0 +1,7 @@
+2025-08-15T16:46:58.845+05:30  INFO 20836 --- [application] [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-08-15T16:46:58.955+05:30  INFO 20836 --- [application] [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.6.22.Final
+2025-08-15T16:46:59.033+05:30  INFO 20836 --- [application] [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2025-08-15T16:46:59.418+05:30  INFO 20836 --- [application] [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-08-15T16:46:59.473+05:30  INFO 20836 --- [application] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2025-08-15T16:47:00.047+05:30  INFO 20836 --- [application] [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5e158f33
+2025-08-15T16:47:00.050+05:30  INFO 20836 --- [application] [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.

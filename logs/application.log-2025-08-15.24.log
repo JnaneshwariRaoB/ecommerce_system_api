@@ -1,0 +1,5 @@
+2025-08-15T17:23:25.838+05:30  INFO 12700 --- [application] [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-08-15T17:23:25.965+05:30  INFO 12700 --- [application] [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-08-15T17:23:26.473+05:30  WARN 12700 --- [application] [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-08-15T17:23:27.033+05:30  INFO 12700 --- [application] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-08-15T17:23:27.046+05:30  INFO 12700 --- [application] [main] com.example.application.Application      : Started Application in 6.99 seconds (process running for 7.474)
