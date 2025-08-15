@@ -20,7 +20,7 @@ Method	Endpoint	Description	Example Body (JSON)
 POST	/users	Creates a new user.	{"username": "johndoe", "password": "password", "email": "john.doe@example.com"}
 GET	/users	Retrieves a list of all users.	-
 
-======================================================================
+------------------------------------------------------------------------------------
 
 3. Order Processing 
 Handles order creation and payment.
